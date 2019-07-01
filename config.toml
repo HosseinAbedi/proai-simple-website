@@ -1,4 +1,4 @@
-baseurl = "pro.ai"
+baseurl = "https://hosseinabedi.github.io/proai-simple-website/"
 title = "ProAI"
 theme = "hugo-universal-theme"
 themesDir = "./"
