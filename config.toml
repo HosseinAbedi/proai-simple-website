@@ -10,6 +10,10 @@ disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+#Publish dir
+publishDir = "docs"
+
+
 # Define the number of posts per page
 paginate = 10
 
