@@ -2,116 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/pro.ai/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/blog/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pro.ai/blog/2015/10/02/linked-post/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pro.ai/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pro.ai/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pro.ai/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pro.ai/blog/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/categories/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/contact/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/contact/</loc>
   </url>
   
   <url>
-    <loc>/pro.ai/faq/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/faq/</loc>
   </url>
   
   <url>
-    <loc>/pro.ai/tags/go/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/tags/golang/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/tags/hugo/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/tags/ipsum/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/categories/lorem/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/tags/programming/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/categories/programming/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/categories/pseudo/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/categories/starting/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/tags/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro.ai/tags/theme/</loc>
+    <loc>https://hosseinabedi.github.io/proai-simple-website/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
